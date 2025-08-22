@@ -1,0 +1,3 @@
+Fuck,true
+you,false
+Bitch,true
